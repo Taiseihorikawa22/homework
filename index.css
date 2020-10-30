@@ -1,0 +1,203 @@
+li{
+    list-style:none;
+}
+span{
+    display:block;
+}
+h1{
+    font-size:13px;
+}
+p{
+    font-size:13px;
+}
+.main{
+    
+    margin-left:auto;
+    margin-right:auto;
+}
+.header{
+    width:980px;
+    margin-right:auto;
+    margin-left:auto;
+}
+.wrap{
+    text-align:center;
+}
+
+.toppage{
+    display:inline-block;
+    text-align:center;
+}
+
+
+.privacycolor{
+    color:black;
+     text-decoration: none;
+    padding:5px;
+   
+}
+.otoiawasecolor{
+    color:black;
+     text-decoration: none;
+     padding:5px;
+}
+.otoiawase{
+    display:inline-block;
+    background-color:#FFCC00;
+    margin-top:10px;
+}
+.privacy{
+    display:inline-block;
+    background-color:#FFCC00;
+    margin-top:10px;
+}
+.title{
+    color:black;
+    height:7px;
+}
+.sub-title{
+    color:blue;
+   
+}
+.underline{
+    text-decoration: none;
+    color:black;
+}
+.nav{
+    width:19%;
+    display:inline-block;
+    border-right:1px dotted  #FF8C00;
+}
+.headimg{
+    display:inline-block;
+}
+.logo{
+    display:inline-block;
+    margin-right:50px;
+}
+.question{
+    display:inline-block;
+    
+}
+.navigation{
+    background-color:#FFCC00;
+    border-top:8px solid #FF8C00;
+}
+.wrapper{
+     overflow: auto;
+     margin-right:auto;
+     margin-left:auto;
+}
+.newinformation{
+    background-color:#FFEFD5;
+    width:625px;
+    display:inline-block;
+    text-align:center;
+    
+}
+.sinntyaku {
+  position: relative;
+  text-align:left;
+  font-size:17px;
+}
+.sinntyaku::before {
+  border-bottom: solid 2px #FFCC33;
+  width: 30%;
+  position: absolute;z-index: 1;bottom: 0;left: 0;
+  content: "";
+}
+.sinntyaku::after {
+  border-bottom: solid 2px #CCCCCC;
+  width: 100%;
+  position: absolute;bottom: 0;left: 0;
+  content: "";
+}
+.osirase{
+    background-color:#FFA500;
+    color:white;
+    display:inline-block;
+    
+}
+.timely{
+    display:inline-block;
+    margin-right:25px;
+}
+.timely-news{
+    margin-right:200px;
+}
+.timelynews{
+    display:inline-block;
+}
+.watchingmore{
+    color:black;
+    margin-left:480px;
+}
+.renewal{
+    display:inline-block;
+}
+.renewalfont{
+    color:black;
+    display:inline-block;
+}
+.fRow1{
+    border-top: 1px dotted #FFD700;
+    border-bottom:10px solid #FFD700;
+}
+.FoodContainer{
+    display:inline-block;
+    width:50%;
+    margin-right:40px;
+}
+.footerlogo{
+    display:inline-block;
+}
+.fTel{
+    display:inline-block;
+}
+.fNav{
+    display:inline-block;
+    margin-right:30px;
+    
+}
+.FNav{
+    display:inline-block;
+    border-right:1px solid black;
+    
+    padding:5px;
+    
+}
+.FNAv{
+     border-left:1px solid black;
+}
+.leftright{
+    margin-bottom:150px;
+    display:inline-block;
+   
+}
+.footer{
+    
+    text-align:center;
+
+}
+.copyright{
+    text-align:center;
+}
+.left{
+    display:inline-block;
+   
+}
+
+
+.right{
+    display:inline-block;
+}
+
+.point{
+    display:inline-block;
+    text-align:center;
+}
+
+
+
+
+
